@@ -1,4 +1,8 @@
-Dine data er dine og kun dine.
+---
+title: Privatlivspolitik
+---
+
+###Dine data er dine og kun dine.
 
 Dine aktiviteter og billeder forbliver udelukkende på din telefon. 
 
